@@ -54,17 +54,6 @@
         </dependency>
 
     </dependencies>
-
-    <repositories>
-        <repository>
-            <id>myMavenRepo.read</id>
-        </repository>
-    </repositories>
-
-    <distributionManagement>
-        <repository>
-            <id>myMavenRepo.write</id>
-        </repository>
     </distributionManagement>
 
 </project>
